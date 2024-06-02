@@ -17,3 +17,4 @@ This React Native application is designed to showcase various core components an
 Custom components are used throughout the application to enhance the user interface and provide a consistent design pattern. These components are created specifically for this application and are not part of the core React Native components.
 
 ## Screenshot
+![Screenshot](assets/screenshot.jpg)
